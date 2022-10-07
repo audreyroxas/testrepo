@@ -1,0 +1,4 @@
+simple.fit = lm(01~02, data=dataset)
+summary(simple.fit)
+multi.fit = lm(01~02+03, data=dataset)
+summary(multi.fit
